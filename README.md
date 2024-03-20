@@ -9,7 +9,7 @@
 - [GitHub Dataset](https://www.kaggle.com/datasets/nikhil25803/github-dataset?select=repository_data.csv)
 - [MovieLens 10M Dataset](https://www.kaggle.com/datasets/amirmotefaker/movielens-10m-dataset-latest-version)
 
-其中，GitHub_Dataset数据集使用的是版本一的数据集
+其中，GitHub_Dataset数据集使用的是Version 1的数据集
 
 #### 3. 数据分析要求
 
